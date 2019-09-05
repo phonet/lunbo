@@ -1,2 +1,2 @@
 # lunbo
-一个基于jquery轮播的手操实现
+一个纯js手操的图片轮播实现，主要看index.html
